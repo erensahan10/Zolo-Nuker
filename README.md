@@ -12,7 +12,7 @@ Star the Repository if u like it
 </h3>
 
 
-### ・ Download Python
+### Download Python
 
 You'll need [Python](https://www.python.org/downloads/) to start off!
 ```sh-session
